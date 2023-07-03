@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MokhlesBenna
-- 👀 I’m interested in Web & Mobile programming 
+- 👀 I’m interested in Web & Mobile development
 - 🌱 I’m currently learning Java, SpringBoot, NodeJs
 - 📫 How to reach me 
 - CONTACT ME ON :  
