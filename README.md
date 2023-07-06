@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MokhlesBenna
 - 👀 I’m interested in Web & Mobile development
-- 🌱 I’m currently learning Java, SpringBoot, NodeJs
+- 🌱 I’m currently learning Java, Python, SpringBoot
 - 📫 How to reach me 
 - CONTACT ME ON :  
 mokles.benna10@gmail.com
