@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MokhlesBenna
-- 👀 I am interested in Web & Mobile development
+- 👀 I am interested in Web development
 - 🌱 I am currently pursuing Engineering Degree at Esprit and I am learning Java, Python, SpringBoot
 - 📫 How to reach me 
 - You can reach me out through : mokles.benna10@gmail.com OR linkedin.com/in/mokhlesbenna/
