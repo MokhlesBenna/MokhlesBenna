@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @MokhlesBenna
-- 👀 I am interested in Web development
-- 🌱 I am currently pursuing Engineering Degree at Esprit and I am learning Java, Python, SpringBoot
-- 📫 How to reach me 
-- You can reach me out through : mokles.benna10@gmail.com OR linkedin.com/in/mokhlesbenna/
-<!---
-MokhlesBenna/MokhlesBenna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi there! I'm Mokhles Benna, a passionate web developer with a focus on PHP, particularly leveraging the Symfony framework. 
+Currently pursuing an Engineering Degree at Esprit, I'm also diving into the realms of Java, Python, and SpringBoot to broaden my skill set. 
+With a keen interest in crafting robust and efficient web solutions, I'm always eager to collaborate and learn from fellow developers. Feel free to connect with me on LinkedIn or drop me an email at mokles.benna10@gmail.com. 
