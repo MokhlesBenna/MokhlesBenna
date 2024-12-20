@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, Docker.**
 
-- 💬 Ask me about **Java, SpringBoot,Python.**
+- 💬 Ask me about **Java, SpringBoot,javascript.**
 
 - 📫 How to reach me **bennamokhles@gmail.com**
 
