@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, Docker.**
 
-- 💬 Ask me about **Angular, Nodejs, Reactjs, SpringBoot, and Symfony.**
+- 💬 Ask me about **Angular, JavaScript, SpringBoot, and Symfony.**
 
 - 📫 How to reach me **bennamokhles@gmail.com**
 
