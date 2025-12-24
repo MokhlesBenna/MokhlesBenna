@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mokhlesbenna" alt="mokhlesbenna" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs, NodeJs, Docker.**
+- 🌱 I’m currently learning **Devops practices, NodeJs, Docker.**
 
 - 💬 Ask me about **Angular, JavaScript, SpringBoot, and Symfony.**
 
