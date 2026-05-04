@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Final-year Software Engineering student at **ESPRIT** 
-- 💼 Currently **Consultant at Amaris Consulting** working on telecom processes  
+- 💼 Currently **Consultant at Amaris Consulting** working on process optimization using SpringBoot and Angular stack  
 - 🔭 Building **full-stack platforms + process automation solutions**
 - 🤖 Passionate about **AI integration in software systems**
 - ⚙️ Strong focus on **performance, scalability, and DevOps practices**
