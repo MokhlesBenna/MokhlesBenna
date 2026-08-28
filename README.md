@@ -141,24 +141,7 @@ Document AI (LayoutLMv3, Tesseract OCR) • Hugging Face • GenAI integration �
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mokhlesbenna&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokhlesbenna&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mokhlesbenna&theme=onedark&margin-w=10" />
-</p>
-
----
-
-## ⏱️ Coding Activity
-
-<p align="center">
-  <img src="https://wakatime.com/share/@6f5f71e8-fc83-4a59-87cc-84a23c2130be/e135bf1d-6bd5-4e74-b7ee-9400751c4b40.png" />
 </p>
 
 ---
